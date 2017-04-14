@@ -1,0 +1,12 @@
+build_requires:
+- build-essential
+- devscripts
+- fakeroot
+- debhelper
+- dpkg-dev
+- fakeroot
+image: ubuntu:trusty
+name: debian-example
+namespace: builder
+version: 0.0.1
+volume: /build

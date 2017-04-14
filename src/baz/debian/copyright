@@ -1,0 +1,25 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: foo
+Source: <url://example.com>
+
+#----------------------------------------------------------------------------
+Copyright: NO_COPYRIGHT_INFO_FOUND
+Files: ./debian/control
+# licensecheck(1): ./debian/control: *No copyright* GENERATED FILE
+License: NO_LICENSE_TEXT_FOUND
+
+#----------------------------------------------------------------------------
+# This is meant only as a template example.
+#
+# Edit this accordinng to the "Machine-readable debian/copyright file" as
+# http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/ .
+#
+# Generate typical license templates with the "debmake -c" to STDOUT
+# and merge them into here as needed.  See "man 8 debmake" for more.
+#
+# licensecheck(1) from the devscripts package is used here to determin
+# the name of the license that applies.
+#
+# Please avoid to pick license terms that are more restrictive than the
+# packaged work, as it may make Debian's contributions unacceptable upstream.
+

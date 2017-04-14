@@ -1,0 +1,6 @@
+foo (@VERSION@) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #12435
+    <Get on with the foo of brixton>
+
+ -- Brett Smith <xbcsmith@gmail.com>  @TIMESTAMP@

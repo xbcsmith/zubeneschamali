@@ -1,0 +1,18 @@
+Source: bar
+Section: devel
+Priority: extra
+Maintainer: Brett Smith <bc.smith@sas.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/xbcsmith/zubeneschamali
+Vcs-Git: git://anonscm.debian.org/collab-maint/bar.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/bar.git
+
+Package: bar
+Architecture: any
+Multi-Arch: foreign
+Depends: foo
+Description: Engines stop running,
+  but Bar has no fear,
+  'Cause London is drowning,
+  and Bar, Bar live by the river

@@ -1,0 +1,6 @@
+baz (@VERSION@) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #54345
+    <Baz is still in gear>
+
+ -- Brett Smith <xbcsmith@gmail.com>  @TIMESTAMP@

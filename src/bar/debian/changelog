@@ -1,0 +1,6 @@
+bar (@VERSION@) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #54321
+    <Bar lives down by the river>
+
+ -- Brett Smith <xbcsmith@gmail.com>  @TIMESTAMP@

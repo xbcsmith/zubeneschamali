@@ -1,0 +1,17 @@
+Source: baz
+Section: devel
+Priority: extra
+Maintainer: Brett Smith <xbcsmith@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.5
+Homepage: https://github.com/xbcsmith/zubeneschamali
+Vcs-Git: git://anonscm.debian.org/collab-maint/baz.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/baz.git
+
+Package: baz
+Architecture: any
+Multi-Arch: foreign
+Depends: foo, bar
+Description: Don't you ever stop,
+ Long enough to start,
+ Take your Baz out of that gear

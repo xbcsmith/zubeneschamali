@@ -1,0 +1,7 @@
+build_requires:
+- vim
+image: builder/debian-builder:latest
+name: foo-builder
+namespace: builder
+version: 0.0.1
+volume: /build
